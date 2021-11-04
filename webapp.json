@@ -1,0 +1,14 @@
+﻿{
+  "name":                 "My App",
+  "width":                900,
+  "height":               650,
+  "protocol":             "app",
+  "protocol_call":        "app_call",
+  "html_url":             "index.html",
+  "NavComplete_call":     "app_page",
+  "Nav_sounds":           false,
+  "fullscreen":           false,
+  "DPI_Aware":            true,
+  "ZoomLevel":            100,
+  "AllowZoomLevelChange":	true
+}
