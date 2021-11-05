@@ -20,12 +20,6 @@ header {
 	padding: 10px 20px;
 }
 
-h1 {
-	font-family: "Press Start 2P", sans-serif;
-	color: #FFFFFF;
-	text-shadow: 5px 5px 0 #000000;
-}
-
 a{
 	display: inline-flex;
 	align-items: center;
