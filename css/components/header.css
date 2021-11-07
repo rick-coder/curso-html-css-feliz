@@ -1,0 +1,9 @@
+﻿.header {
+	display: flex;
+	justify-content: space-between;    /* Alinhamento horizontal */
+	align-items: center;               /* Alinhamento vertical */
+	background-color: #7C5E99;
+	text-align: right;
+	border-bottom: 10px solid #000000;
+	padding: 10px 20px;
+}
