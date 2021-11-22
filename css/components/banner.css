@@ -5,3 +5,15 @@
 	height: 800px;
 	border-bottom: 10px solid #000000;      /* dimensão tipo cor */
 }
+
+.banner .wrapper {
+	display: flex;
+	flex-direction: column;
+	width: 640px;
+}
+
+.banner .navigation {
+	display: flex;
+	flex-direction: row;        /* eixo y */
+	justify-content: space-around;    /* eixo x */
+}
